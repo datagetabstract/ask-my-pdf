@@ -1,5 +1,5 @@
 __version__ = "0.4.8.3"
-app_name = "Ask my PDF"
+app_name = "Ask my PDF - Live Test"
 
 
 # BOILERPLATE
